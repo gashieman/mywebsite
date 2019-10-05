@@ -4,7 +4,7 @@
    $phone = $_REQUEST['phone'] ;  
   $message = $_REQUEST['message'] ;
   
-  mail( "info@stmarysbfs.co.za", "Feedback Form Results", 
+  mail( "gashirai@gmail.com", "Feedback Form Results", 
 "Name      : $name
 Email      : $email
 Phone      : $phone
